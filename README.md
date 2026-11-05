@@ -1,3 +1,14 @@
+# Nothing — theme tools
+
+The build tools for the [Nothing](https://github.com/lookiyam-94/omarchy-nothing-theme)
+Omarchy theme: `tools/generate-backgrounds.py` draws the backgrounds and
+`tools/build-vivaldi.py` packs the Vivaldi theme. Omarchy themes may not ship
+scripts, so they live here, beside a copy of the theme files they build from.
+To use the theme itself, install it from
+[omarchy-nothing-theme](https://github.com/lookiyam-94/omarchy-nothing-theme).
+
+---
+
 # Nothing
 
 Monochrome ground, one red signal, dot-matrix surfaces.
